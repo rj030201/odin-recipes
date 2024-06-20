@@ -1,0 +1,1 @@
+This site was set up as a practice project for The Odine Project. 
